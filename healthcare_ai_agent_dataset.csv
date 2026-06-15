@@ -1,0 +1,11 @@
+patient_id,age,gender,symptoms,duration,severity,medical_history,follow_up_question,possible_conditions,recommended_action
+1,25,Male,"fever, headache",2 days,Moderate,None,Do you have body pain?,"viral infection, flu",rest and hydration
+2,60,Female,chest pain,1 hour,Severe,hypertension,Do you have shortness of breath?,heart attack risk,seek emergency care
+3,30,Male,"cough, cold",3 days,Mild,None,Do you have fever?,"common cold, flu",rest and medication
+4,45,Female,"fatigue, weight loss",2 weeks,Moderate,diabetes,Have you experienced increased thirst?,diabetes complication,consult doctor
+5,50,Male,breathing difficulty,5 hours,Severe,asthma,Do you have wheezing?,asthma attack,use inhaler and seek care
+6,35,Female,abdominal pain,1 day,Moderate,None,Do you have nausea or vomiting?,"gastritis, infection",monitor and consult doctor
+7,70,Male,dizziness,2 hours,Severe,heart disease,Did you faint or lose consciousness?,stroke risk,seek emergency care
+8,28,Female,sore throat,2 days,Mild,None,Do you have fever?,throat infection,rest and fluids
+9,40,Male,back pain,1 week,Moderate,None,Did you lift heavy objects?,muscle strain,rest and physiotherapy
+10,55,Female,blurred vision,3 days,Moderate,diabetes,Do you have high blood sugar levels?,diabetic retinopathy,consult specialist
